@@ -1,8 +1,8 @@
 {
 "info": {
-    "temperature": 38,
-    "humidity": 61,
-    "oxygen": 0
+    "temperature": 38.0,
+    "humidity": 62.0,
+    "oxygen": 0.0
   },
   "history": [
     {
