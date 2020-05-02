@@ -1,0 +1,93 @@
+{
+"info": {
+    "temperature": 38,
+    "humidity": 61,
+    "oxygen": 0
+  },
+  "history": [
+    {
+      "date": "2020.03.29",
+      "time": "14:30:00",
+      "temperature": 39.4,
+      "humidity": 60,
+      "oxygen": 72
+    },
+    {
+      "date": "2020-03-29",
+      "time": "14:20:00",
+      "temperature": 39,
+      "humidity": 61.7,
+      "oxygen": 72
+    },
+    {
+      "date": "2020-03-29",
+      "time": "14:10:00",
+      "temperature": 39.5,
+      "humidity": 57.2,
+      "oxygen": 72
+    },
+    {
+      "date": "2020-03-29",
+      "time": "14:00:00",
+      "temperature": 38.8,
+      "humidity": 59.8,
+      "oxygen": 72
+    },
+    {
+      "date": "2020.03.29",
+      "time": "14:30:00",
+      "temperature": 39.4,
+      "humidity": 60,
+      "oxygen": 72
+    },
+    {
+      "date": "2020-03-29",
+      "time": "14:20:00",
+      "temperature": 39,
+      "humidity": 61.7,
+      "oxygen": 72
+    },
+    {
+      "date": "2020-03-29",
+      "time": "14:10:00",
+      "temperature": 39.5,
+      "humidity": 57.2,
+      "oxygen": 72
+    },
+    {
+      "date": "2020-03-29",
+      "time": "14:00:00",
+      "temperature": 38.8,
+      "humidity": 59.8,
+      "oxygen": 72
+    },
+    {
+      "date": "2020.03.29",
+      "time": "14:30:00",
+      "temperature": 39.4,
+      "humidity": 60,
+      "oxygen": 72
+    },
+    {
+      "date": "2020-03-29",
+      "time": "14:20:00",
+      "temperature": 39,
+      "humidity": 61.7,
+      "oxygen": 72
+    },
+    {
+      "date": "2020-03-29",
+      "time": "14:10:00",
+      "temperature": 39.5,
+      "humidity": 57.2,
+      "oxygen": 72
+    },
+    {
+      "date": "2020-03-29",
+      "time": "14:00:00",
+      "temperature": 38.8,
+      "humidity": 59.8,
+      "oxygen": 72
+    }
+  ],
+  }
