@@ -17,7 +17,7 @@
     {
       "date": "2020-03-29",
       "time": "14:20:00",
-        "datetime": "2020-03-29T14:20:00.000Z",
+      "datetime": "2020-03-29T14:20:00.000Z",
       "temperature": 39,
       "humidity": 61.7,
       "oxygen": 72
@@ -25,7 +25,7 @@
     {
       "date": "2020-03-29",
       "time": "14:10:00",
-        "datetime": "2020-03-29T14:10:00.000Z",
+      "datetime": "2020-03-29T14:10:00.000Z",
       "temperature": 39.5,
       "humidity": 57.2,
       "oxygen": 72
@@ -33,7 +33,7 @@
     {
       "date": "2020-03-29",
       "time": "14:00:00",
-        "datetime": "2020-03-29T14:00:00.000Z",
+      "datetime": "2020-03-29T14:00:00.000Z",
       "temperature": 38.8,
       "humidity": 59.8,
       "oxygen": 72
@@ -41,7 +41,7 @@
     {
       "date": "2020.03.29",
       "time": "14:30:00",
-        "datetime": "2020-03-29T14:30:00.000Z",
+      "datetime": "2020-03-29T14:30:00.000Z",
       "temperature": 39.4,
       "humidity": 60,
       "oxygen": 72
@@ -49,7 +49,7 @@
     {
       "date": "2020-03-29",
       "time": "14:20:00",
-        "datetime": "2020-03-29T14:30:00.000Z",
+      "datetime": "2020-03-29T14:30:00.000Z",
       "temperature": 39,
       "humidity": 61.7,
       "oxygen": 72
@@ -57,7 +57,7 @@
     {
       "date": "2020-03-29",
       "time": "14:10:00",
-        "datetime": "2020-03-29T14:30:00.000Z",
+      "datetime": "2020-03-29T14:30:00.000Z",
       "temperature": 39.5,
       "humidity": 57.2,
       "oxygen": 72
@@ -65,7 +65,7 @@
     {
       "date": "2020-03-29",
       "time": "14:00:00",
-        "datetime": "2020-03-29T14:30:00.000Z",
+      "datetime": "2020-03-29T14:30:00.000Z",
       "temperature": 38.8,
       "humidity": 59.8,
       "oxygen": 72
@@ -73,7 +73,7 @@
     {
       "date": "2020.03.29",
       "time": "14:30:00",
-        "datetime": "2020-03-29T14:30:00.000Z",
+      "datetime": "2020-03-29T14:30:00.000Z",
       "temperature": 39.4,
       "humidity": 60,
       "oxygen": 72
@@ -81,7 +81,7 @@
     {
       "date": "2020-03-29",
       "time": "14:20:00",
-        "datetime": "2020-03-29T14:30:00.000Z",
+      "datetime": "2020-03-29T14:30:00.000Z",
       "temperature": 39,
       "humidity": 61.7,
       "oxygen": 72
@@ -89,7 +89,7 @@
     {
       "date": "2020-03-29",
       "time": "14:10:00",
-        "datetime": "2020-03-29T14:30:00.000Z",
+      "datetime": "2020-03-29T14:30:00.000Z",
       "temperature": 39.5,
       "humidity": 57.2,
       "oxygen": 72
@@ -97,7 +97,7 @@
     {
       "date": "2020-03-29",
       "time": "14:00:00",
-        "datetime": "2020-03-29T14:30:00.000Z",
+      "datetime": "2020-03-29T14:30:00.000Z",
       "temperature": 38.8,
       "humidity": 59.8,
       "oxygen": 72
